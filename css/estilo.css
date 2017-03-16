@@ -1,0 +1,13 @@
+body{
+    padding-top: 5px;
+}
+
+td, th{
+    text-align: center;
+}
+
+.scroll {
+   height: 300px;
+   overflow-y: scroll;
+   
+}
