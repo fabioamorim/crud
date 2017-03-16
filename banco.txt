@@ -1,0 +1,13 @@
+SGBD utilizado : MySQL
+
+Criando database:
+
+create schema crud;
+
+criando tabela:
+
+create table produto(
+    id INT not null primary key auto_increment,
+    valor double not null,
+    qtd INT not null
+);
