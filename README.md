@@ -11,7 +11,7 @@ Tecnologias utilizadas:
 - PHP 5.6.25 - Linguagem Server-side
 - Apache 2.4.23 - Servidor Web
 - Mysql 5.7.14 - SGBD
-- Bootstrap3.3.7
+- Bootstrap3.3.7 - Framework Client-side
 
 Autor:
 
